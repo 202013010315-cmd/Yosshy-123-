@@ -1,1 +1,1 @@
-¥bottom push
+Press the ¥ key
